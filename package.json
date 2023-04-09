@@ -10,8 +10,11 @@
   },
   "author": "",
   "license": "ISC",
+
+  "homepage": "https://github.com/cmccune2/tuiter-node-server-app#readme",
   "dependencies": {
     "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
     "express": "^4.18.2",
     "mongoose": "^7.0.3"
   }
